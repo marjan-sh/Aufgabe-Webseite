@@ -1,0 +1,54 @@
+<style>
+    body{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: aqua;
+    }
+    #top{
+        text-align: center;
+    }
+    #titel{
+        color:white;
+        background-color:rgb(160, 112, 152);
+        display: block;
+        font-size:300%;
+        padding: 8px;   
+        margin-top: 25px;
+        font-weight: bolder;
+        text-align: center;
+        
+}
+titel-name
+div{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 80px;
+    padding-bottom: 50px;
+}
+#navigation a{
+    color: rgb(130, 41, 165);
+    margin-top: 25px;
+    padding: 20px;
+    font-size: medium;
+
+}
+
+#navigation a:hover{
+    color: rgb(165, 39, 144);
+    
+}
+
+#button{
+   
+    color: white;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    font-size:small;
+    margin: 50px 30px;
+    cursor: pointer;
+    position:relative;
+    left: 400px;
+    
+}
+
+</style>
